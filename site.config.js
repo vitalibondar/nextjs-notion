@@ -1,28 +1,28 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'dbe6b9fe47244464b1d3832969426f9e',
+  rootNotionPageId: '3b7fa222526c453c8f2cf4e8c492d902',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wzulfikar',
-  domain: process.env.NEXT_PUBLIC_DOMAIN || 'wzulfikar.com',
-  author: 'Wildan Zulfikar',
+  name: 'Дитячий садок «Пролісок»',
+  domain: process.env.NEXT_PUBLIC_DOMAIN || 'prolisok.haisyn.info',
+  author: 'ЗДО №1 м. Гайсина',
 
   // Use custom font family (leave empty to use default font)
   fontFamily: 'Work Sans',
 
   // open graph metadata (optional)
-  description: 'Just another blog',
-  socialImageTitle: 'wzulfikar.com',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Заклад дитячої освіти №1 міста Гайсина',
+  socialImageTitle: 'Дитячий садок «Пролісок»',
+  socialImageSubtitle: 'prolisok.haisyn.info',
 
   // social usernames (optional)
-  twitter: 'wzulfikar',
-  github: 'wzulfikar',
-  linkedin: 'wildan-zulfikar-30a30a100',
+  //twitter: 'wzulfikar',
+  //github: 'wzulfikar',
+  //linkedin: 'wildan-zulfikar-30a30a100',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
