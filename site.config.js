@@ -51,7 +51,13 @@ module.exports = {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: null,
+  pageUrlOverrides: {
+     '/home': '95ecea4e80954d93908ed5c26e83ccad',
+      '/about': '402b8c5c96504b819301f2a5b41e7d04',
+      '/news': '64c0be7a987144adac82e40ffc673d19',
+      '/important': '30526dd614544efcb33707b36ec6da36',
+      '/routine': '73787b7875644d13a6bdf87e165c31e3'
+  },
 
   showGithubRibbon: false,
   showPageAsideSocials: false
