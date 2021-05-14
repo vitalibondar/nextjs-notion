@@ -33,14 +33,14 @@ export const Footer: React.FC<{
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>
-        {new Date().getFullYear()} All rights reserved ·{' '}
+        {new Date().getFullYear()} ЗДО №1 «Пролісок» ·{' '}
         <a
           style={{ textDecoration: 'underline' }}
           href={notionUrl}
           target='_blank'
           rel='noopener noreferrer'
         >
-          View in Notion
+          Відкрити у Notion
         </a>
       </div>
 
@@ -49,7 +49,7 @@ export const Footer: React.FC<{
           <a
             className={styles.toggleDarkMode}
             onClick={toggleDarkModeCb}
-            title='Tottle dark mode'
+            title='Перемикач темного режиму'
           >
             {isDarkMode ? <IoMoonSharp /> : <IoSunnyOutline />}
           </a>
