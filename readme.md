@@ -12,7 +12,8 @@
 
 ## Intro
 
-This repo is what I use to power my personal blog / portfolio site [transitivebullsh.it](https://transitivebullsh.it).
+This is a fork of the repository that Travis Fischer uses for his personal blog/portfolio site [transitivebullsh.it](https://transitivebullsh.it).
+This repository is used to create site [Дитячий садок №1 м. Гайсин](prolisok.haisyn.info)
 
 It uses Notion as a CMS, fetching content from Notion and then uses [Next.js](https://nextjs.org/) and [react-notion-x](https://github.com/NotionX/react-notion-x) to render everything.
 
