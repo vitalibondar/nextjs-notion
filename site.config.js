@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3b7fa222526c453c8f2cf4e8c492d902',
+  rootNotionPageId: '3f4df235a44040929aa325369d37e946',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -52,11 +52,11 @@ module.exports = {
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
   pageUrlOverrides: {
-     '/home': '95ecea4e80954d93908ed5c26e83ccad',
-      '/about': '402b8c5c96504b819301f2a5b41e7d04',
-      '/news': '64c0be7a987144adac82e40ffc673d19',
-      '/important': '30526dd614544efcb33707b36ec6da36',
-      '/routine': '73787b7875644d13a6bdf87e165c31e3'
+     '/home': '18a5fa4fa9b247b68b4b397f35a392ad',
+      '/about': 'f42b1abe1bd94e708f42e752078a1b78',
+      '/news': 'b05f7181d2da4efb843759783e1ecbe2',
+      '/important': '6b45f8644239449faeeff55bdd603603',
+      '/routine': '9fb75201db4340dfa105547bcb89ff72'
   },
 
   showGithubRibbon: false,
