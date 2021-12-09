@@ -56,7 +56,9 @@ module.exports = {
       '/about': 'f42b1abe1bd94e708f42e752078a1b78',
       '/news': 'b05f7181d2da4efb843759783e1ecbe2',
       '/important': '6b45f8644239449faeeff55bdd603603',
-      '/routine': '9fb75201db4340dfa105547bcb89ff72'
+      '/routine': '9fb75201db4340dfa105547bcb89ff72',
+      '/psychologe': 'adab1b32a5eb4cd5bfadfd1201ec05c3',
+      '/socialpedagogue': '76b20f3c57964b32bf26ee5fce949444'
   },
 
   showGithubRibbon: false,
